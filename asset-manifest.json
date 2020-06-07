@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SteelEyebrows/HW_interrupt_simulation/static/css/main.0fb81d82.chunk.css",
+    "main.js": "/SteelEyebrows/HW_interrupt_simulation/static/js/main.726b617f.chunk.js",
+    "main.js.map": "/SteelEyebrows/HW_interrupt_simulation/static/js/main.726b617f.chunk.js.map",
+    "runtime-main.js": "/SteelEyebrows/HW_interrupt_simulation/static/js/runtime-main.fa1bdf21.js",
+    "runtime-main.js.map": "/SteelEyebrows/HW_interrupt_simulation/static/js/runtime-main.fa1bdf21.js.map",
+    "static/js/2.7065400a.chunk.js": "/SteelEyebrows/HW_interrupt_simulation/static/js/2.7065400a.chunk.js",
+    "static/js/2.7065400a.chunk.js.map": "/SteelEyebrows/HW_interrupt_simulation/static/js/2.7065400a.chunk.js.map",
+    "index.html": "/SteelEyebrows/HW_interrupt_simulation/index.html",
+    "precache-manifest.be7295c08f0865e771250613e6cc735c.js": "/SteelEyebrows/HW_interrupt_simulation/precache-manifest.be7295c08f0865e771250613e6cc735c.js",
+    "service-worker.js": "/SteelEyebrows/HW_interrupt_simulation/service-worker.js",
+    "static/css/main.0fb81d82.chunk.css.map": "/SteelEyebrows/HW_interrupt_simulation/static/css/main.0fb81d82.chunk.css.map",
+    "static/js/2.7065400a.chunk.js.LICENSE": "/SteelEyebrows/HW_interrupt_simulation/static/js/2.7065400a.chunk.js.LICENSE",
+    "static/media/App.css": "/SteelEyebrows/HW_interrupt_simulation/static/media/GmarketSansTTFMedium.96b4a5b8.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa1bdf21.js",
+    "static/js/2.7065400a.chunk.js",
+    "static/css/main.0fb81d82.chunk.css",
+    "static/js/main.726b617f.chunk.js"
+  ]
+}
