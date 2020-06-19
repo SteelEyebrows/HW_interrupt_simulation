@@ -104,4 +104,6 @@ PCB(Process Control Block)는 프로세스의 상태 정보를 저장하는 구�
 |PriorityDialog/setPriorityDialog|Boolean|우선순위 설정 다이얼로그의 상태를 나타내는 변수입니다. 만약 이 변수가 true값이라면 우선순위를 설정할 수 있는 다이얼로그가 팝업 됩니다.|
 |states|Array|‘allStates.js’에서 전달받은 배열을 저장하는 변수입니다.|
 
-## 사용 라이브러리
+## 참조
+
+IT EXPERT, 64비트 멀티코어 OS 원리와 구조 1권: OS 개발 60일 프로젝트(한승훈)
