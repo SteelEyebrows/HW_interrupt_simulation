@@ -3,7 +3,17 @@
 
 ![introduce](https://user-images.githubusercontent.com/46894554/84999342-fd82ce00-b18b-11ea-9329-ad480a52287b.png)
 
-[View](https://SteelEyebrows.github.io/HW_interrupt_simulation/)
+## 설명서
+1. 우측하단의 네비게이터는 '<'버튼이 이전단계로 가는 버튼, '>'버튼이 다음단계로 가는 버튼입니다.
+
+2. 모든 단계에서 인터럽트를 추가할 수 있습니다. 좌측상단의 설정버튼을 눌러 add interrupt를 클릭하여 추가해주세요!
+
+3. 우선순위를 설정할 경우 원하는 박스를 누른상태에서 원하는 자리로 이동해주면 자리가 바뀝니다.
+
+4. 맨처음 페이지를 들어가면 인터럽트를 선택할 수 있습니다. 원하시는 항목을 클릭하면 인터럽트 처리가 시작됩니다.
+
+[설명을 확인하셨으면 이 링크를 클릭하여 확인해주세요!](https://SteelEyebrows.github.io/HW_interrupt_simulation/)
+
 
 ___
 # description
