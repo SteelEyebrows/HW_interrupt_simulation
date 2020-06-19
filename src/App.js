@@ -6,16 +6,7 @@ import {ALL_STATE_VALS} from './_allStates';
 
 
 import './App.css';
-// https://m.blog.naver.com/qbxlvnf11/221350931159
-// https://whatisthenext.tistory.com/147
 
-// https://blog.naver.com/songblue61/221493816235
-// https://sanghyunj.tistory.com/15
-// https://jhnyang.tistory.com/33
-// https://hack-gogumang.tistory.com/255
-// https://velog.io/@adam2/2020-01-08-2301-%EC%9E%91%EC%84%B1%EB%90%A8-huk55f3cic
-// https://haloworld.tistory.com/70
-// https://rusy.tistory.com/entry/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8interrupt
 let width = window.innerWidth;
 let height = window.innerHeight;
 
